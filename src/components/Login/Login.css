@@ -36,7 +36,11 @@
   background-color: rgba(255, 153, 0, 0.3);
   cursor: pointer;
 }
+.form-submit:hover {
+  background-color: rgba(255, 153, 0, 0.6);
+}
 .form-link {
   color: #ff9900;
   text-decoration: none;
+  padding-left: 5px;
 }

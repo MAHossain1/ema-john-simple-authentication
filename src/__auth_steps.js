@@ -2,7 +2,9 @@
 1. create a new project on console.google.com
 2. npm install firebase
 3. create firebase.init.js and import getAuth to export auth
-4. firebase setting > authentication > enable email and password auth
+4. firebase setting > authentication > enable email and password auth 
+5. create Login, Signup component, setup routes
+6. attach form field handler and form submit handler
 
 */
 
